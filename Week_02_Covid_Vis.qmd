@@ -1,7 +1,7 @@
 ---
 title: "Week 02: COVID Visualization Activity"
 date: "September, 11 2023"
-author: "**`[[`**Your Name**`]]`**"
+author: "**`[[`Yuanan Mu`]]`**"
 ---
 
 Today, we'll be working with a data set related to COVID.
@@ -39,3 +39,7 @@ covid_data_count |>
 2. Are there any conclusions you can draw?
 3. What were you not able to do due to not having the R knowledge?
 4. What other data would be useful to better understand this data?
+```{r}
+
+```
+
